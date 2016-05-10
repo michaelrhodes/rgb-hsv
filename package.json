@@ -1,6 +1,6 @@
 {
   "name": "rgb-hsv",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert RGB values to HSV",
   "main": "index.js",
   "devDependencies": {
